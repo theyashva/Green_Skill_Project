@@ -82,7 +82,7 @@ Get an instant classification result.
 
 Use the prediction to properly dispose of the waste.
 
-🏗 Project Structure
+🏗 Project Structure (Please view it in editor)
 Green_Skill_Project/
 ├── .devcontainer/        # Development container configuration
 ├── notebooks/            # Jupyter notebooks for model training
