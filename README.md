@@ -140,6 +140,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 🎗 Acknowledgements
 🙏 Special thanks to:
 
+TrashNet Dataset :
+
+The TrashNet dataset is a collection of images designed for garbage image classification using convolutional neural networks (CNNs).
 Dataset Providers – For making the dataset publicly available.
 
 Open-Source Community – For contributing tools and libraries.
