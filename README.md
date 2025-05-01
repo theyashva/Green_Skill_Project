@@ -14,7 +14,6 @@ An AI-powered system designed to classify waste into appropriate categories usin
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ---
@@ -134,8 +133,6 @@ Go to the original repository on GitHub.
 
 Click on "New Pull Request".
 
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 🎗 Acknowledgements
 🙏 Special thanks to:
