@@ -111,7 +111,7 @@ Click the "Fork" button on GitHub.
 
 Clone Your Fork
 
-git clone https://github.com/your-username/Green_Skill_Project.git
+git clone https://github.com/theyashva/Green_Skill_Project.git
 
 cd Green_Skill_Project
 Create a New Branch
