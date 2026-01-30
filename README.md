@@ -55,7 +55,7 @@ Follow these steps to set up the project on your local system:
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/yashdubeyy/Green_Skill_Project.git
+git clone https://github.com/theyashva/Green_Skill_Project.git
 
 cd Green_Skill_Project
 
